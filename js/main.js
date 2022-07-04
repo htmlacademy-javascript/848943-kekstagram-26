@@ -1,3 +1,1 @@
-import {createPhotoGallery} from './data.js';
-
-createPhotoGallery();
+import {picturesContainer} from './thumbnails.js';
