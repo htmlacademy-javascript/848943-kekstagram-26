@@ -1,3 +1,4 @@
-import {createPhotoGallery} from './data.js';
+import {picturesContainer} from './thumbnails.js';
 
-createPhotoGallery();
+const getPicturesContainer = () => picturesContainer;
+getPicturesContainer();
